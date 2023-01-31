@@ -1,0 +1,23 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Tipo do depurador
+            "type": "node",
+            // Define o tipo de requisição podendo ser do tipo launch ou attach - Cada tipo possui um tipo de atributo 
+            // disponível
+            "request": "launch",
+            // Nome do debug
+            "name": "Iniciar o Programa",
+            // Define quais arquivos ou pastas devem ser ignorados (pulados)
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            // Caminho absoluto para o arquivo que será debugado
+            "program": "${workspaceFolder}\\8-loops.js",
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+Links auxiliares:
+
+Template String
+
+- https://www.javascripttutorial.net/es6/javascript-template-literals/
+- https://horadecodar.com.br/2021/01/14/como-usar-template-string-em-javascript/
+- https://www.w3schools.com/js/js_string_templates.asp
+- https://www.devmedia.com.br/javascript-template-literals/41193
+
+Var, Let ou conventions
+- https://midia12.com.br/wp-content/uploads/2021/07/const-vs-let-vs-var.png
+- https://valde.ci/images/posts/es6/const-and-let/const-and-let-chart.png
+- https://horadecodar.com.br/2019/03/12/as-diferencas-de-var-let-e-const/
+- https://www.freecodecamp.org/portuguese/news/var-let-e-const-qual-e-a-diferenca
+- https://www.linkedin.com/pulse/qual-diferen%C3%A7a-entre-var-let-e-const-javascript-gabriel-de-jesus
+- https://midia12.com.br/qual-a-diferenca-entre-var-const-e-let/
+
+Erros de Tempo de Compilação
+- https://acervolima.com/diferenca-entre-erros-de-tempo-de-compilacao-e-erros-de-tempo-de-execucao/
+
+Doideiras do JavaScript
+- https://imasters.com.br/desenvolvimento/javascript-o-lado-obscuro
+- https://medium.com/@carlosbrando/isto-%C3%A9-um-bug-no-javascript-d407d9ea20da
+
+Tipagens: estática, dinâmica, fraca e forte.
+
+- https://medium.com/@alissoncs_/diferen%C3%A7as-entre-tipagens-est%C3%A1tica-din%C3%A2mica-fraca-e-forte-755e08d82caa

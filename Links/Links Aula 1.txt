@@ -1,0 +1,14 @@
+Links auxiliares:
+
+Ponto e vírgula
+
+1. https://horadecodar.com.br/2020/05/27/javascript-utilizar-ou-nao-ponto-e-virgula-no-fim-das-linhas/
+2. https://medium.com/frontend-quest/por-que-usar-ponto-e-virgula-no-javascript-367b63d26b3e
+3. https://pt.stackoverflow.com/questions/3341/utilizar-ou-n%C3%A3o-ponto-e-v%C3%ADrgula-no-fim-das-linhas-em-javascript#447654
+
+JavaScript Style Guide
+
+1. https://www.syncfusion.com/blogs/post/10-javascript-naming-conventions-every-developer-should-know.aspx
+2. https://javascript.info/coding-style
+3. https://google.github.io/styleguide/jsguide.html
+4. https://google.github.io/styleguide/jsguide.html#naming-rules-by-identifier-type
